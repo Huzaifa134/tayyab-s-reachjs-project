@@ -27,9 +27,6 @@ import Layer3 from "../assets/Layer3.png";
 import Layer4 from "../assets/Layer4.png";
 import Layer5 from "../assets/Layer5.png";
 import Layer6 from "../assets/Layer6.png";
-// import Layer7 from "../assets/Layer7.png";
-import Layer7 from "../assets/layer7.png";
-import Layer8 from "../assets/Layer8.png";
 
 import webbg1 from "../assets/web-bg1.png";
 
